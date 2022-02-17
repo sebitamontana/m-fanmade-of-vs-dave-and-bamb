@@ -39,7 +39,7 @@ class MainMenuState extends MusicBeatState
 
 	public static var daRealEngineVer:String = 'Dave';
 
-	public static var engineVers:Array<String> = ['Dave', 'Bambi', 'Tristan'];
+	public static var engineVers:Array<String> = ['Dave', 'Bambi', 'Tristan', 'sebita edition'];
 
 	public static var kadeEngineVer:String = "DAVE";
 	public static var gameVer:String = "0.2.7.1";
@@ -54,7 +54,8 @@ class MainMenuState extends MusicBeatState
 		'backgrounds/morie',
 		'backgrounds/mantis',
 		'backgrounds/mamakotomi',
-		'backgrounds/T5mpler'
+		'backgrounds/T5mpler',
+		'backgrounds/week8'	
 	];
 
 	override function create()
